@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "許せ！服部",
+  "base_artist": "ネクライトーキー",
+  "createdAt": "2026-02-15T14:47:39.839486Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "許せ!服部",
+      "artist": "ネクライトーキー",
+      "has_synced": false,
+      "path": "select/pl_01_許せ!服部_ネクライトーキー.txt"
+    }
+  ]
+}
